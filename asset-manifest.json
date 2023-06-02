@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elden-ring/static/css/main.073c9b0a.css",
+    "main.js": "/elden-ring/static/js/main.9f1fc0e7.js",
+    "static/js/787.f2772015.chunk.js": "/elden-ring/static/js/787.f2772015.chunk.js",
+    "static/media/logo.svg": "/elden-ring/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/elden-ring/index.html",
+    "main.073c9b0a.css.map": "/elden-ring/static/css/main.073c9b0a.css.map",
+    "main.9f1fc0e7.js.map": "/elden-ring/static/js/main.9f1fc0e7.js.map",
+    "787.f2772015.chunk.js.map": "/elden-ring/static/js/787.f2772015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f1fc0e7.js"
+  ]
+}
